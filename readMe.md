@@ -1,5 +1,8 @@
 # Go Lang Practice Projects
 
+
+![Project Banner](assets/go-lang.png)
+
 This repository contains multiple Go programs organized by topic, demonstrating fundamental and advanced concepts of the Go programming language.
 
 ## 📁 Folder Structure & Description
